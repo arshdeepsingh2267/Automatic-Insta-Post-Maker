@@ -1,0 +1,19 @@
+.gfg {
+    margin: 3%;
+    position: relative;
+    height: 700px;
+    width: 614px;
+}
+
+.first-txt {
+    font-family: monospace;
+    font-size: large;
+    position: absolute;
+    line-height: 2em;
+    top: 100px;
+    left: 30px;
+    color: rgb(255, 255, 255);
+    width: 550px;
+    white-space: pre-line;
+    text-align: justify;
+}

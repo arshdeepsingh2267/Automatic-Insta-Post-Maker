@@ -1,0 +1,21 @@
+/*
+    window.onload=function(){
+    var canvas = document.getElementById("canvas");
+    var ctx = canvas.getContext("2d");
+    
+    var text= document.getElementById("News");
+    canvas.width = 614;
+    canvas.height = 700;
+
+    var background = new Image();
+    background.src = "static/image/"+(Math.floor(Math.random() * (7)) + 1)+".jpg";
+    // Make sure the image is loaded first otherwise nothing will draw.
+    background.onload = function () {
+        //ctx.drawImage(background, 0, 0);
+        ctx.font="40pt Calibri";
+        ctx.fillText("text.value",10,0);
+        //console.log(text.value);
+    };
+
+
+}*/
